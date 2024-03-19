@@ -20,10 +20,10 @@ class JunSoo_KIM
 ```
 
 <div>
-  <a href="june050190@gmail.com">
+  <a href="mailto:june050190@gmail.com">
     <img style="float:left;" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="email" width="45" height="45" margin-right="0"/>
-  </a>
-  <a href="https://www.instagram.com/junesoo__/">
+  </a
+  ><a href="https://www.instagram.com/junesoo__/">
     <img style="float:left;" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" alt="instagram" width="45" height="45"/>
   </a>
 </div>
